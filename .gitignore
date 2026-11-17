@@ -1,0 +1,9 @@
+# Environnements Python
+.venv/
+myenv/
+venv/
+
+# Fichiers temporaires Python et Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
